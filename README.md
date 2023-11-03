@@ -3,4 +3,4 @@ Este projeto tem o intuito de tocar a musica do Mário utilizando um piezzo, com
 
 Tecnologias utilizadas:
 
--C++
+- C++
